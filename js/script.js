@@ -28,9 +28,9 @@
 //     isMarried : false,
 // };
 // console.log( obj.isMarried) ;
-let arr = [ 'plg.ong', 'flower.png', [ 'one', "two", 3432,],{    name: "john",
-age: 25, sex: "man", isMarried : false},143423];
-console.log(arr[3] );
+// let arr = [ 'plg.ong', 'flower.png', [ 'one', "two", 3432,],{    name: "john",
+// age: 25, sex: "man", isMarried : false},143423];
+// console.log(arr[3] );
     // alert( "hello");
     // const result = confirm(" how old are you");
     // console.log(result);
@@ -74,78 +74,78 @@ console.log(arr[3] );
                         //         isMarried : false,
                         //     };
                         //     console.log( obj['age']) ; 
-const house= {
-    price: 20230402,
-    ddata: false,
-    car: "honda",
-    red: 'bluer',
-    kids:"ola",
-    dfg:[12,'kdvmv', false],
-};
-console.log(house['car']);
+// const house= {
+//     price: 20230402,
+//     ddata: false,
+//     car: "honda",
+//     red: 'bluer',
+//     kids:"ola",
+//     dfg:[12,'kdvmv', false],
+// };
+// console.log(house['car']);
 
-   const car={
-       price:1200,
-       dob: "june",
-       ingin: false,
-       sets: 1,
-       capaciti:[12,'opo',false],
-   };
-   console.log(car['capaciti']);
-
-
- let num = 500;
- if( num>501){
-     console.log( " not enaf");
-
- }else if (num<400){
-     console.log(" more");
-
- }else if(num=500){
-     console.log("ok");
- }
- else {console.log("123");}
-
- const num=200;
- (num>300) ? console.log("ok") : console.log("again");
-
-  const leter = 3;
- if ( leter>15){
-     console.log("ok");
- }else if(leter===33){
-     console.log("opo");
- }else{
-     console.log("haha");
- }
- (leter<2) ? console.log("mslo") : console.log("opa");
-  const leter = 3;
-  switch(leter){
-      case 2:
-          console.log("ooo");
-          break;
-          case 4:
-              console.log("222");
-              break;
-              case 6:
-                  console.log("444");
-                  break;
-                  default:
-                      console.log(" opa");
-                      case 3:
-                          console.log(" ok");
-                          break;}
+//    const car={
+//        price:1200,
+//        dob: "june",
+//        ingin: false,
+//        sets: 1,
+//        capaciti:[12,'opo',false],
+//    };
+//    console.log(car['capaciti']);
 
 
-                          const tim = 44;
-                          if(tim>100){
-                              console.log("good");
-                          }else if(tim<45){
-                              console.log("less");
-                          }else{
-                              console.log("try");
-                          }
-                          (tim>45) ? console.log("less") : console.log("try");
-                          Object
+//  let num = 500;
+//  if( num>501){
+//      console.log( " not enaf");
+
+//  }else if (num<400){
+//      console.log(" more");
+
+//  }else if(num=500){
+//      console.log("ok");
+//  }
+//  else {console.log("123");}
+
+//  const num=200;
+//  (num>300) ? console.log("ok") : console.log("again");
+
+//   const leter = 3;
+//  if ( leter>15){
+//      console.log("ok");
+//  }else if(leter===33){
+//      console.log("opo");
+//  }else{
+//      console.log("haha");
+//  }
+//  (leter<2) ? console.log("mslo") : console.log("opa");
+//   const leter = 3;
+//   switch(leter){
+//       case 2:
+//           console.log("ooo");
+//           break;
+//           case 4:
+//               console.log("222");
+//               break;
+//               case 6:
+//                   console.log("444");
+//                   break;
+//                   default:
+//                       console.log(" opa");
+//                       case 3:
+//                           console.log(" ok");
+//                           break;}
+
+
+//                           const tim = 44;
+//                           if(tim>100){
+//                               console.log("good");
+//                           }else if(tim<45){
+//                               console.log("less");
+//                           }else{
+//                               console.log("try");
+//                           }
+//                           (tim>45) ? console.log("less") : console.log("try");
+//                           Object
 //  const dada={
 //      age: 65,
 //      car: "nissan",
@@ -154,7 +154,7 @@ console.log(house['car']);
     
 //  };
 //  console.log(dada.age);
- let dada =1000;
+// let dada =1000;
 //  if(dada==64){
 //      console.log("less");
 //  }else if( dada == 65){
@@ -164,42 +164,48 @@ console.log(house['car']);
 // }else{
 //     console.log("111");
 // }
-let ooo =1009;
-switch(ooo){
-    case 2000:
-        console.log("less");
-        break;
-        case 1000:
-            console.log("ok");
-            break;
-            default:
-                console.log("tyr");
-                break;
-}
+// let ooo =1009;
+// switch(ooo){
+//     case 2000:
+//         console.log("less");
+//         break;
+//         case 1000:
+//             console.log("ok");
+//             break;
+//             default:
+//                 console.log("tyr");
+//                 break;
+// }
 
-for(let  i=1;i<9;i++){
-    if (i===5){
-        break;
-    }
-    console.log(i);
+// for(let  i=1;i<9;i++){
+//     if (i===5){
+//         break;
+//     }
+//     console.log(i);}
     
-}
-for(let i = 0;i < 1; i++) {
-    const numberOfFilms = +prompt('Сколько фильмов вы уже смотрели?');
-    console.log(numberOfFilms);
-    if(numberOfFilms == "" || numberOfFilms == null){
-      alert('Строка не может быть пустой!');
-      i--;
-    }else if (numberOfFilms < 10 ){
-      console.log('Просмотрено очень мало фильмов');
-    }else if (numberOfFilms >= 10 && numberOfFilms <= 30 ) {
-      console.log('Вы класический Зритель');
-    }else if(numberOfFilms> 30 ){
-      console.log('Вы киноман');
-    }
-  }
 
+//     for(let i = 0;i < 1; i++) {
+//     const numberOfFilms = +prompt('Сколько фильмов вы уже смотрели?');
+//     console.log(numberOfFilms);
+//     if(numberOfFilms == "" || numberOfFilms == null){
+//       alert('Строка не может быть пустой!');
+//       i--;
+//     }else if (numberOfFilms < 10 ){
+//       console.log('Просмотрено очень мало фильмов');
+//     }else if (numberOfFilms >= 10 && numberOfFilms <= 30 ) {
+//       console.log('Вы класический Зритель');
+//     }else if(numberOfFilms> 30 ){
+//       console.log('Вы киноман');
+//     }
+//   }
+// let numberOfFilms = prompt('Сколько фильмов вы уже посмотрели?' , "");
+// let personalMovieDB ={
+//     count :'Сколько фильмов вы уже посмотрели?',
+//     movies : {},
+//     actors : {},
+//     genres :[],
+//     privat : false
+// };
 
    
  
-  
